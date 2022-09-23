@@ -20,16 +20,18 @@ def get_page_soup(url, wait_time=1):
     # Remove the extension, and add back html (could be php)
     page_name = os.path.splitext(page_name)[0] + '.html'
 
+    # If the page is in the cache, return it
+    # Else scrape it
     if os.path.isfile(f"./pages/{page_name}"):
         file = open(f"./pages/{page_name}", mode='r', encoding='utf8')
         soup = BeautifulSoup(file, 'lxml')
     else:
         # Courtesy delay if we're scraping lots of file to not put too much load on the site
-        # Though it should be fine. Can also serve not to get blocked by automatic rules.
+        # though it should be fine. Can also serve not to get blocked by automatic rules.
         time.sleep(wait_time)
         resp = requests.get(url)
         soup = BeautifulSoup(resp.text, 'lxml')
-
+        # Save the page to the page for further reference
         with open(f"./pages/{page_name}", mode='w', encoding='utf8') as outfile:
             outfile.write(soup.prettify())
 
@@ -38,7 +40,7 @@ def get_page_soup(url, wait_time=1):
 
 def get_regions():
     """
-        Fetches the list of regions from bottinsante.ca
+        Returns all the regions along with links to their bottinsante page
     """
     # First page of the site
     soup = get_page_soup('https://www.bottinsante.ca/CHSLD-Quebec-1.html')
@@ -73,6 +75,7 @@ def get_CHSLD_links():
     CHSLD_links = {}
 
     for region, link in region_links.items():
+        # Skip the whole of QC listing so we can associate region to each CHSLD
         if region == 'Tout le Québec':
             continue
         
@@ -139,7 +142,7 @@ def scrape_all_CHSLDs():
 
         address_parts = address_block.decode_contents().split('</strong>')[1:][0]
         address_parts = address_parts.split('<br/>')
-        # # Should have elements: street address, neighborhood, postal code
+        # Should have elements: street address, city, postal code
         address_parts = [ part.strip() for part in address_parts if part.strip() ]
 
         if len(address_parts) >= 3:
@@ -151,6 +154,7 @@ def scrape_all_CHSLDs():
 
         CHSLD_info.append(info)
     
+    # Write the CSV file
     header = ['Name', 'Region', 'Street Address', 'City', 'Postal Code', 'Phone Number', 'Website', 'Scraped Page']
     with open('CHSLDs.csv', 'w', newline='', encoding='utf8') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
@@ -160,6 +164,7 @@ def scrape_all_CHSLDs():
             row = [CHSLD['name'], CHSLD['region'], CHSLD['address'], CHSLD['city'], CHSLD['postalcode'], CHSLD['phone'], CHSLD['website'], CHSLD['link']]
             csvwriter.writerow(row)
 
+    # Write the Excel file
     try:
         with xlsxwriter.Workbook('CHSLDs.xlsx') as workbook:
             worksheet = workbook.add_worksheet()
@@ -169,9 +174,8 @@ def scrape_all_CHSLDs():
                 row = [CHSLD['name'], CHSLD['region'], CHSLD['address'], CHSLD['city'], CHSLD['postalcode'], CHSLD['phone'], CHSLD['website'], CHSLD['link']]
                 worksheet.write_row(i+1, 0, row)
 
-            num_rows = i
             num_cols = len(header)
-            # Define filters on all columns
+            # Add filters on the top row
             worksheet.autofilter(0, 0, 0, num_cols-1)
 
     except xlsxwriter.exceptions.FileCreateError as e:
