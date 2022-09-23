@@ -11,7 +11,8 @@ from urllib.parse import urlparse
 
 def get_page_soup(url, wait_time=1):
     """
-        Returns the page at desired url, saving it for future reference under ./pages
+        Returns the page at desired url, caching it for future reference
+        under ./pages so we don't have to scrape it a second time.
     """
     page_name = urlparse(url)
     # Extract just the page name
