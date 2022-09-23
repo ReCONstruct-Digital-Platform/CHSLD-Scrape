@@ -1,0 +1,129 @@
+Name,Region,Street Address,City,Postal Code,Phone Number,Website,Scraped Page
+CHSLD de Malartic,Abitibi-Témiscamingue,"987, rue des Pins",Malartic,J0Y 1Z0,819- 825-5858,https://www.cisss-at.gouv.qc.ca/,https://www.indexsante.ca/chsld/abitibi-temiscamingue/20/chsld-de-malartic.php
+CHSLD de Macamic,Abitibi-Témiscamingue,"169, 7e avenue Est",Macamic,J0Z 2S0,819-782-4661,https://www.cisss-at.gouv.qc.ca/,https://www.indexsante.ca/chsld/abitibi-temiscamingue/2256/chsld-de-macamic.php
+CHSLD de Val-d'Or,Abitibi-Témiscamingue,"1212, avenue Brébeuf",Val-d'Or,J9P 2C9,819- 825-5858,https://www.cisss-at.gouv.qc.ca/,https://www.indexsante.ca/chsld/abitibi-temiscamingue/28/chsld-de-val-d-or.php
+CHSLD de La Sarre,Abitibi-Témiscamingue,"22, 1e avenue Est",La Sarre,J9Z 1C4,819- 333-5525,https://www.cisss-at.gouv.qc.ca/,https://www.indexsante.ca/chsld/abitibi-temiscamingue/126/chsld-de-la-sarre.php
+CHSLD de Palmarolle,Abitibi-Témiscamingue,"136, rue Principale",Palmarolle,J0Z 3C0,819- 787-2612,https://www.cisss-at.gouv.qc.ca/,https://www.indexsante.ca/chsld/abitibi-temiscamingue/22/chsld-de-palmarolle.php
+CHSLD Saint-Joseph,Saguenay - Lac-Saint-Jean,"1893, rue Alexis-Simard",La Baie,G7B 2K9,418-544-3381,,https://www.indexsante.ca/chsld/saguenay-lac-saint-jean/14/chsld-saint-joseph.php
+CHSLD de Rimouski,Bas-Saint-Laurent,"645, boul. Saint-Germain",Rimouski,G5L 3S2,418-724-4111,,https://www.indexsante.ca/chsld/bas-saint-laurent/7/chsld-rimouski.php
+CHSLD de Matane,Bas-Saint-Laurent,"150, avenue Saint-Jérôme",Matane,G4W 3A2,418-562-4154,,https://www.indexsante.ca/chsld/bas-saint-laurent/8/chsld-de-matane.php
+CHSLD de la Mitis,Bas-Saint-Laurent,"800, avenue Sanatorium",Mont-Joli,G5H 3L6,418- 775-7261,http://cisss-bsl.gouv.qc.ca/,https://www.indexsante.ca/chsld/bas-saint-laurent/6/chsld-de-la-mitis.php
+CHSLD Sainte-Monique,Capitale-Nationale,"4805, boul. Hamel",Québec,G1P 2J7,418-871-8701,http://www.chsld-ste-monique.com/,https://www.indexsante.ca/chsld/capitale-nationale/4055/hopital-sainte-monique-chsld.php
+Centre d'hébergement Pierre-Dupré,Capitale-Nationale,"10, rue Boivin",Baie-Saint-Paul,G3Z 1S8,418-435-5150,,https://www.indexsante.ca/chsld/capitale-nationale/2258/centre-hebergement-pierre-dupre.php
+CHSLD Neilson,Capitale-Nationale,"3390, chemin Saint-Louis",Québec,G1W 1S4,418- 653-6885,,https://www.indexsante.ca/chsld/capitale-nationale/29/chsld-neilson.php
+Saint Brigid's Home,Capitale-Nationale,"1645, chemin Saint-Louis",Sillery,G1S 4M3,418-681-4687,http://www.jhsb.ca/,https://www.indexsante.ca/chsld/capitale-nationale/39/saint-brigids-home.php
+CHSLD Domaine Saint-Dominique,Capitale-Nationale,"1045, boul. René-Lévesque Ouest",Québec,G1S 1V3,418-681-3561,https://www.domaine-saint-dominique.ca,https://www.indexsante.ca/chsld/capitale-nationale/36/chsld-domaine-saint-dominique.php
+CHSLD Boisvert,Côte-Nord,"70, avenue Mance",Baie-Comeau,G4Z 1M9,418- 296-2501,http://www.cisss-cotenord.gouv.qc.ca/,https://www.indexsante.ca/chsld/cote-nord/133/chsld-boisvert.php
+CHSLD N.-A.-Labrie,Côte-Nord,"659, boul. Blanche",Baie-Comeau,G5C 2B2,418- 589-2425,http://www.cisss-cotenord.gouv.qc.ca/,https://www.indexsante.ca/chsld/cote-nord/399/chsld-n-a-labrie.php
+CHSLD des Bergeronnes,Côte-Nord,"450, rue de la Mer",Les Bergeronnes,G0T 1G0,418- 232-6224,http://www.cisss-cotenord.gouv.qc.ca/,https://www.indexsante.ca/chsld/cote-nord/398/chsld-des-bergeronnes.php
+CHSLD Donald-G.-Hodd,Côte-Nord,Harrington Harbour,Côte-Nord-du-Golfe-du-Saint-Laurent,G0G 1N0,418- 795-3325,http://www.cisss-cotenord.gouv.qc.ca/,https://www.indexsante.ca/chsld/cote-nord/5/chsld-donald-g-hodd.php
+CHSLD du Roseau,Centre-du-Québec,"45, rue de l'Ermitage",Victoriaville,G6P 6X4,819-758-7511,,https://www.indexsante.ca/chsld/centre-du-quebec/43/chsld-du-roseau.php
+CHSLD de Plessisville,Centre-du-Québec,"1340, rue Cormier",Plessisville,G6L 0G1,819-362-7431,https://ciusssmcq.ca/,https://www.indexsante.ca/chsld/centre-du-quebec/380/chsld-de-plessisville.php
+CHSLD du Chêne,Centre-du-Québec,"61, rue de l'Ermitage",Victoriaville,G6L 1P4,819-758-7511,https://www.ciusssmcq.ca/,https://www.indexsante.ca/chsld/centre-du-quebec/2259/chsld-du-chene.php
+CHSLD des Quatre-Vents,Centre-du-Québec,"2180, rue Bécancour",Lyster,G0S 1V0,819-389-5923,,https://www.indexsante.ca/chsld/centre-du-quebec/58/chsld-des-quatre-vents.php
+CHSLD Frederick-George-Heriot,Centre-du-Québec,"75, rue Saint-Georges",Drummondville,J2C 4G6,819-478-6464,https://www.ciusssmcq.ca/,https://www.indexsante.ca/chsld/centre-du-quebec/42/chsld-frederick-george-heriot.php
+CHSLD L'Accueil Bon-Conseil,Centre-du-Québec,"91, rue Saint-Thomas",Notre-Dame-du-Bon-Conseil,J0C 1A0,819-477-7237,https://www.ciusssmcq.ca/,https://www.indexsante.ca/chsld/centre-du-quebec/30/chsld-accueil-bon-conseil.php
+Centre d'hébergement de Warwick,Centre-du-Québec,"10, rue l'Heureux",Warwick,J0A 1M0,819-358-6833,https://www.ciusssmcq.ca/,https://www.indexsante.ca/chsld/centre-du-quebec/56/centre-dhebergement-de-warwick.php
+CHSLD Marguerite-D'Youville,Centre-du-Québec,"574, rue Heriot",Drummondville,J2B 1B9,819-478-6464,https://www.ciusssmcq.ca/,https://www.indexsante.ca/chsld/centre-du-quebec/32/chsld-marguerite-d-youville.php
+CHSLD de Saint-Eusèbe,Centre-du-Québec,"435, rue Saint-Jacques Est",Princeville,G6L 5C5,819-364-2355,,https://www.indexsante.ca/chsld/centre-du-quebec/383/chsld-de-saint-eusebe.php
+CHSLD Saint-Alexandre,Chaudière-Appalaches,"1651, rue Notre-Dame Est",Thetford Mines,G6G 0C1,418-338-7409,http://www.cisss-ca.gouv.qc.ca/accueil/,https://www.indexsante.ca/chsld/chaudiere-appalaches/394/chsld-saint-alexandre.php
+CHSLD Lac-Noir,Chaudière-Appalaches,"4064, rue du Foyer",Thetford Mines,G6H 2A1,418-423-7508,http://www.cisss-ca.gouv.qc.ca/accueil/,https://www.indexsante.ca/chsld/chaudiere-appalaches/392/chsld-du-lac-noir.php
+CHSLD René-Lavoie,Chaudière-Appalaches,"260, avenue Champlain",Disraeli,G0N 1E0,418-449-2020,http://www.cisss-ca.gouv.qc.ca/accueil/,https://www.indexsante.ca/chsld/chaudiere-appalaches/395/chsld-rene-lavoie.php
+CHSLD Marc-André-Jacques,Chaudière-Appalaches,"272, rue Principale",East Broughton,G0N 1G0,418-427-2068,http://www.cisss-ca.gouv.qc.ca/accueil/,https://www.indexsante.ca/chsld/chaudiere-appalaches/393/chsld-marc-andre-jacques.php
+CHSLD de Saint-Georges (secteur Est),Chaudière-Appalaches,"11 515, 8e Avenue",Saint-Georges,G5Y 1J5,418-228-2021,http://www.cisss-ca.gouv.qc.ca/accueil/,https://www.indexsante.ca/chsld/chaudiere-appalaches/391/chsld-de-saint-georges-est.php
+CHSLD de Beauceville,Chaudière-Appalaches,"253, route 108",Beauceville,G5X 2Z3,418-774-3304,http://www.cisss-ca.gouv.qc.ca/accueil/,https://www.indexsante.ca/chsld/chaudiere-appalaches/397/chsld-de-beauceville.php
+CHSLD de Saint-Georges (secteur Ouest),Chaudière-Appalaches,"405, 18e Rue",Saint-Georges,G5Y 4T2,418-228-2081,http://www.cisss-ca.gouv.qc.ca/accueil/,https://www.indexsante.ca/chsld/chaudiere-appalaches/144/chsld-de-saint-georges-ouest.php
+CHSLD Denis-Marcotte,Chaudière-Appalaches,"56, 9e Rue Sud",Thetford-Mines,G6G 5H6,418-338-4556,http://www.cisss-ca.gouv.qc.ca/accueil/,https://www.indexsante.ca/chsld/chaudiere-appalaches/143/chsld-denis-marcotte.php
+CHSLD de Saint-Jean-Port-Joli,Chaudière-Appalaches,"430, rue Jean-Leclerc",Saint-Jean-Port-Joli,G0R 3G0,418- 598-3355,http://www.cisss-ca.gouv.qc.ca/accueil/,https://www.indexsante.ca/chsld/chaudiere-appalaches/396/chsld-de-saint-jean-port-joli.php
+CHSLD du Granit,Estrie,"3569, rue Laval",Lac-Mégantic,G6B 1A5,819- 583-0330 poste 2440,,https://www.indexsante.ca/chsld/estrie/400/chsld-du-granit.php
+CHSLD de la MRC de Coaticook,Estrie,"138, rue Jeanne-Mance",Coaticook,J1A 1W3,819-849-9102,https://www.santeestrie.qc.ca/accueil/,https://www.indexsante.ca/chsld/estrie/11173/chsld-coaticook.php
+CHSLD Saint-Vincent,Estrie,"300, rue King Est",Sherbrooke,J1G 1B1,819-780-2222,http://www.csss-iugs.ca/,https://www.indexsante.ca/chsld/estrie/11172/chsld-saint-vincent.php
+CHSLD Eudore-LaBrie,Gaspésie - Iles-de-la-Madeleine,"424, chemin Principal",Cap-aux-Meules,G4T 1C9,418-986-2121,http://www.cisssdesiles.com/,https://www.indexsante.ca/chsld/gaspesie-iles-de-la-madeleine/2260/chsld-eudore-labrie.php
+CHSLD de Matapédia,Gaspésie - Iles-de-la-Madeleine,"14, boul. Perron Est",Matapédia,G0J 1V0,418-865-2221,https://www.cisss-gaspesie.gouv.qc.ca/,https://www.indexsante.ca/chsld/gaspesie-iles-de-la-madeleine/404/chsld-de-matapedia.php
+CHSLD de New Carlisle,Gaspésie - Iles-de-la-Madeleine,"108, rue Principale",New Carlisle,G0C 1Z0,418-752-3386,https://www.cisss-gaspesie.gouv.qc.ca/,https://www.indexsante.ca/chsld/gaspesie-iles-de-la-madeleine/409/chsld-de-new-carlisle.php
+CHSLD Mgr-Ross,Gaspésie - Iles-de-la-Madeleine,"150, rue Mgr-Ross",Gaspé,G4X 2S7,418-368-3301,https://www.cisss-gaspesie.gouv.qc.ca/,https://www.indexsante.ca/chsld/gaspesie-iles-de-la-madeleine/401/chsld-mgr-ross.php
+CHSLD de Maria,Gaspésie - Iles-de-la-Madeleine,"491, boul. Perron",Maria,G0C 1Y0,418-759-3458,https://www.cisss-gaspesie.gouv.qc.ca/,https://www.indexsante.ca/chsld/gaspesie-iles-de-la-madeleine/402/chsld-de-maria.php
+CHSLD Parphilia-Ferland,Lanaudière,"1000, boul. Sainte-Anne",Saint-Charles-Borromée,J6E 6J2,450-759-1764,,https://www.indexsante.ca/chsld/lanaudiere/464/chsld-parphilia-ferland.php
+CHSLD Saint-Donat,Lanaudière,"430, rue Bellevue",Saint-Donat,J0T 2C0,819-424-2503,http://www.cisss-lanaudiere.gouv.qc.ca/votre-cisss/coordonnees-et-horaires/chsld/,https://www.indexsante.ca/chsld/lanaudiere/448/chsld-saint-donat.php
+CHSLD Saint-Antoine de Padoue,Lanaudière,"521, rue Saint-Antoine",Saint-Lin-Laurentides,J5M 3A3,450-439-2609,http://www.cisss-lanaudiere.gouv.qc.ca/votre-cisss/coordonnees-et-horaires/chsld/,https://www.indexsante.ca/chsld/lanaudiere/450/chsld-saint-antoine-de-padoue.php
+CHSLD Heather,Lanaudière,"3931, rue Lakeshore Drive",Rawdon,J0K 1S0,450-834-3070 poste 1000,http://www.chheather.com/,https://www.indexsante.ca/chsld/lanaudiere/440/chsld-heather.php
+CHSLD Alphonse-Rondeau,Lanaudière,"419, rue Faust",Lanoraie,J0K 1E0,450-887-2343,http://www.cisss-lanaudiere.gouv.qc.ca/votre-cisss/coordonnees-et-horaires/chsld/,https://www.indexsante.ca/chsld/lanaudiere/2261/chsld-alphonse-rondeau.php
+CHSLD Sainte-Élisabeth,Lanaudière,"2410, rue Principale",Sainte-Élisabeth,J0K 2J0,450-759-8355,http://www.cisss-lanaudiere.gouv.qc.ca/votre-cisss/coordonnees-et-horaires/chsld/,https://www.indexsante.ca/chsld/lanaudiere/462/chsld-sainte-elisabeth.php
+CHSLD Brassard,Lanaudière,"390, rue Brassard",Saint-Michel-des-Saints,J0K 3B0,450-833-6331,http://www.cisss-lanaudiere.gouv.qc.ca/votre-cisss/coordonnees-et-horaires/chsld/,https://www.indexsante.ca/chsld/lanaudiere/466/chsld-brassard.php
+CHSLD Saint-Liguori,Lanaudière,"771, rue Principale",Saint-Liguori,J0K 2X0,450-753-7062,http://www.cisss-lanaudiere.gouv.qc.ca/votre-cisss/coordonnees-et-horaires/chsld/,https://www.indexsante.ca/chsld/lanaudiere/468/chsld-saint-liguori.php
+CHSLD Saint-Jacques,Lanaudière,"30, rue Sainte-Anne",Saint-Jacques,J0K 2R0,450-839-2695,http://www.cisss-lanaudiere.gouv.qc.ca/votre-cisss/coordonnees-et-horaires/chsld/,https://www.indexsante.ca/chsld/lanaudiere/467/chsld-saint-jacques.php
+CHSLD du Piedmont,Lanaudière,"895, route Louis-Cyr",Saint-Jean-de-Matha,J0K 2S0,450-886-0606,http://www.cisss-lanaudiere.gouv.qc.ca/votre-cisss/coordonnees-et-horaires/chsld/,https://www.indexsante.ca/chsld/lanaudiere/465/chsld-du-piedmont.php
+CHSLD Saint-Eusèbe,Lanaudière,"585, boul. Manseau",Joliette,J6E 3E5,450-759-1662,http://www.cisss-lanaudiere.gouv.qc.ca/votre-cisss/coordonnees-et-horaires/chsld/,https://www.indexsante.ca/chsld/lanaudiere/444/chsld-saint-eusebe.php
+CHSLD Émile-Mc Duff,Lanaudière,"1440, boul. Iberville",Repentigny,J5Y 4G2,450-704-4008,http://www.chsldmcduff.com/,https://www.indexsante.ca/chsld/lanaudiere/429/chsld-emile-mc-duff.php
+CHSLD des Moulins,Lanaudière,"751, rue Marcel-de-la-Sablionnière",Terrebonne,J6Y 0M4,450- 824-1340,http://www.chslddesmoulins.com/,https://www.indexsante.ca/chsld/lanaudiere/423/chsld-des-moulins.php
+CHSLD Desy,Lanaudière,"90, rue Maskinongé",Saint-Gabriel-de-Brandon,J0K 2N0,450-835-4712,http://www.cisss-lanaudiere.gouv.qc.ca/votre-cisss/coordonnees-et-horaires/chsld/,https://www.indexsante.ca/chsld/lanaudiere/456/chsld-desy.php
+CHSLD de Labelle,Laurentides,"50, rue de l'Église",Labelle,J0T 1H0,819-686-2372,,https://www.indexsante.ca/chsld/laurentides/176/chsld-de-labelle.php
+CHSLD Drapeau Deschambault,Laurentides,"100, rue Chanoine-Lionel-Groulx",Sainte-Thérèse,J7E 5E1,450-437-4267,https://www.santelaurentides.gouv.qc.ca/,https://www.indexsante.ca/chsld/laurentides/172/chsld-drapeau-deschambault.php
+CHSLD de Mont-Tremblant,Laurentides,"925, rue de Saint-Jovite",Mont-Tremblant,J8E 3J8,819-425-2793,,https://www.indexsante.ca/chsld/laurentides/471/chsld-de-mont-tremblant.php
+CHSLD Saint-Eustache,Laurentides,"55, rue Chénier",Saint-Eustache,J7R 4Y8,450-472-0013,,https://www.indexsante.ca/chsld/laurentides/174/chsld-saint-eustache.php
+CHSLD Saint-Benoit,Laurentides,"9100, rue Dumouchel",Mirabel,J7N 5A1,450-258-2481,,https://www.indexsante.ca/chsld/laurentides/2197/chsld-saint-benoit.php
+CHSLD Hubert-Maisonneuve,Laurentides,"365, chemin de la Grande-Côte",Rosemère,J7A 1K4,450-433-2777,,https://www.indexsante.ca/chsld/laurentides/282/chsld-hubert-maisonneuve.php
+CHSLD de Lachute,Laurentides,"377, rue Principale",Lachute,J8H 1Y1,450-562-5203,,https://www.indexsante.ca/chsld/laurentides/173/chsld-de-lachute.php
+CHSLD Lucien-G.-Rolland,Laurentides,"175, rue Durand",Saint-Jérôme,J7Z 2V4,450-432-2777 poste 23221,http://www.santelaurentides.gouv.qc.ca/,https://www.indexsante.ca/chsld/laurentides/470/chsld-lucien-g-rolland.php
+CHSLD des Hauteurs,Laurentides,"707, boul. Ste-Adèle",Sainte-Adèle,J8B 2N1,450-229-6601,,https://www.indexsante.ca/chsld/laurentides/473/chsld-des-hauteurs.php
+CHSLD de Sainte-Dorothée,Laval,"350, boul. Samson Ouest",Laval,H7X 1J4,450-689-0933,https://www.lavalensante.com/,https://www.indexsante.ca/chsld/laval/2263/chsld-sainte-dorothee.php
+CHSLD de La Pinière,Laval,"4895, rue Saint-Joseph",Laval,H7C 1H6,450-661-3305,https://www.lavalensante.com/,https://www.indexsante.ca/chsld/laval/11141/chsld-de-la-piniere.php
+CHSLD Val-des-Brises,Laval,"3155, boul. Michel-Ange",Laval,H7E 0J1,450-661-9131,https://www.lavalensante.com/,https://www.indexsante.ca/chsld/laval/1807/chsld-val-des-brises.php
+CHSLD Fernand-Larocque,Laval,"5436, boul. Lévesque Est",Laval,H7C 1N7,450-661-5440,https://www.lavalensante.com/,https://www.indexsante.ca/chsld/laval/11140/chsld-fernand-larocque.php
+CHSLD Idola-Saint-Jean,Laval,"250, boul. Cartier Ouest",Laval,H7N 5S5,450-668-6750,https://www.lavalensante.com/,https://www.indexsante.ca/chsld/laval/11142/chsld-idola-saint-jean.php
+CHSLD Rose-de-Lima,Laval,"280, boul. Roi-du-Nord",Laval,H7L 4L2,450-622-6996,https://www.lavalensante.com/,https://www.indexsante.ca/chsld/laval/2262/chsld-rose-de-lima.php
+CHSLD St-Patrice,Laval,"3615, boul. Perron",Laval,H7V 1P4,450- 681-1621,https://chsldmanoirstpatrice.com/,https://www.indexsante.ca/chsld/laval/477/chsld-st-patrice.php
+Centre de services Avellin-Dalcourt,Mauricie / Bois-Francs,"450, 2e Rue",Louiseville,J5V 1V3,819-228-2731,https://www.ciusssmcq.ca/,https://www.indexsante.ca/chsld/mauricie/315/centre-de-services-avellin-dalcourt.php
+CHSLD Cooke,Mauricie / Bois-Francs,"3450, rue Ste-Marguerite",Trois-Rivières,G8Z 1X3,819-370-2100,,https://www.indexsante.ca/chsld/mauricie/44/chsld-cooke.php
+CHSLD Louis-Denoncourt,Mauricie / Bois-Francs,"435, rue St-Roch",Trois-Rivières,G9A 2L9,819-376-2566,,https://www.indexsante.ca/chsld/mauricie/485/chsld-louis-denoncourt.php
+Centre Cloutier-du Rivage,Mauricie / Bois-Francs,"155, rue Toupin",Trois-Rivières,G8T 3Z8,819-370-2100,https://www.ciusssmcq.ca/,https://www.indexsante.ca/chsld/mauricie/4057/centre-cloutier-du-rivage.php
+CHSLD Roland-Leclerc,Mauricie / Bois-Francs,"3500, rue Ste-Marguerite",Trois-Rivières,G8Z 1X3,819-370-2100,https://ciusssmcq.ca/,https://www.indexsante.ca/chsld/mauricie/492/chsld-roland-leclerc.php
+CHSLD Docteur-Aimé-Leduc,Montérégie,"80, rue du Marché",Salaberry-de-Valleyfield,J6T 1P5,450-373-4818,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/518/chsld-docteur-aime-leduc.php
+CHSLD - Centre d'accueil de Cowansville,Montérégie,"200, rue principale",Cowansville,J2K 1J2,450-266-4342,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/179/chsld-cowansville.php
+CHSLD - Les Foyers Farnham,Montérégie,"800, rue Saint-Paul",Farnham,J2N 2K6,450-293-3167,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/184/chsld-les-foyers-farnham.php
+CHSLD - Foyer Sutton,Montérégie,"50, rue Western",Sutton,J0E 2K0,450-538-3332,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/498/chsld-foyer-sutton.php
+CHSLD Argyle - Centre de santé Saint-Lambert,Montérégie,"33, rue Argyle",Saint-Lambert,J4P 3P5,450-465-1401,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/182/chsld-argyle.php
+Centre Saint-Lambert (réadaptation),Montérégie,"831, rue Notre-Dame",Saint-Lambert,J4R 1S1,450-672-3320,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/516/centre-saint-lambert-readaptation.php
+CHSLD de Bedford,Montérégie,"34, rue Saint-Joseph",Bedford,J0J 1A0,450- 248-4304,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/185/chsld-bedford.php
+CHSLD De Lajemmerais,Montérégie,"60, rue D'Youville",Varennes,J3X 1R1,450-463-2995,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/178/chsld-de-lajemmerais.php
+CHSLD Henriette-Céré,Montérégie,"6435, chemin de Chambly",Saint-Hubert,J3Y 3R6,450-672-3320,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/514/chsld-henriette-cere.php
+CHSLD Champlain,Montérégie,"5050, place Nogent",Brossard,J4Y 2K3,450-443-0000,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/181/chsld-champlain.php
+CHSLD Cécile-Godin,Montérégie,"55, rue Saint-André",Beauharnois,J6N 3G7,450-429-6403,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/520/chsld-cecile-godin.php
+CHSLD de Vaudreuil,Montérégie,"408, Saint-Charles",Vaudreuil,J7V 7M9,450-455-6177,http://www.santemonteregie.qc.ca/,https://www.indexsante.ca/chsld/monteregie/523/chsld-vaudreuil.php
+CHSLD Armand Lavergne,Montréal,"3500, rue Chapleau",Montréal,H2K 4N3,514-527-8921,https://ciusss-centresudmtl.gouv.qc.ca/,https://www.indexsante.ca/chsld/montreal/69/chsld-armand-lavergne.php
+CHSLD de Lasalle,Montréal,"8686, rue Centrale",Lasalle,H8P 3N4,514-364-6700,https://ciusss-ouestmtl.gouv.qc.ca/accueil/,https://www.indexsante.ca/chsld/montreal/62/chsld-de-lasalle.php
+CHSLD Biermans,Montréal,"7905, rue Sherbrooke Est",Montréal,H1L 1A4,514-351-9891,https://ciusss-estmtl.gouv.qc.ca/,https://www.indexsante.ca/chsld/montreal/66/chsld-biermans.php
+CHSLD Denis-Benjamin-Viger,Montréal,"3292, boul. Cherrier",L'Île -Bizard,H9C 1E4,514-620-6310,https://ciusss-ouestmtl.gouv.qc.ca/contact-localisation/centres-dhebergement-et-de-soins-de-longue-duree-chsld/centre-d-hebergement-denis-benjamin-viger/,https://www.indexsante.ca/chsld/montreal/61/chsld-denis-benjamin-viger.php
+CHSLD des Seigneurs,Montréal,"1800, rue Saint-Jacques",Montréal,H3J 2R5,514-935-4681,https://ciusss-centresudmtl.gouv.qc.ca/,https://www.indexsante.ca/chsld/montreal/83/chsld-des-seigneurs.php
+CHSLD Father-Dowd,Montréal,"6565, chemin Hudson",Montréal,H3S 2T7,514-932-3630,,https://www.indexsante.ca/chsld/montreal/65/chsld-father-dowd.php
+Les CHSLD de Lachine,Montréal,"650, place d'Accueil",Lachine,H8S 3Z5,514-634-7161,https://ciusss-ouestmtl.gouv.qc.ca/accueil/,https://www.indexsante.ca/chsld/montreal/76/chsld-de-lachine.php
+CHSLD de Cartierville,Montréal,"12 235, rue Grenet",Montréal,H4J 2N9,514-337-7300,https://www.ciusssnordmtl.ca/,https://www.indexsante.ca/chsld/montreal/80/chsld-de-cartierville.php
+CHSLD Rousselot,Montréal,"5655, rue Sherbrooke Est",Montréal,H1N 1A4,514-254-9421,http://www.cssslucilleteasdale.qc.ca/,https://www.indexsante.ca/chsld/montreal/75/chsld-rousselot.php
+Centre de soins prolongés Grace Dart,Montréal,"5155, rue Sainte-Catherine Est",Montréal,H1V 2A5,514-255-2833,http://www.gracedart.ca/,https://www.indexsante.ca/chsld/montreal/63/chsld-grace-dart.php
+CHSLD Angus,Montréal,"3200, rue Omer-Lavallée",Montréal,H1Y 3P5,514-523-1160,http://www.santemontreal.qc.ca/,https://www.indexsante.ca/chsld/montreal/64/chsld-angus.php
+CHSLD de Saint-Michel,Montréal,"3130, rue Jarry Est",Montréal,H1Z 4N8,514-722-3000,https://ciusss-estmtl.gouv.qc.ca/,https://www.indexsante.ca/chsld/montreal/73/chsld-de-saint-michel.php
+CHSLD Paul-Émile-Léger,Montréal,"66, boul. René-Lévesque Est",Montréal,H2X 1N3,514-861-9331,http://www.santemontreal.qc.ca/,https://www.indexsante.ca/chsld/montreal/67/chsld-paul-emile-leger.php
+Résidences Berthiaume-Du Tremblay,Montréal,"1635, boul. Gouin Est",Montréal,H2C 1C2,514-381-1841,http://residence-berthiaume-du-tremblay.com/,https://www.indexsante.ca/chsld/montreal/82/residences-berthiaume-du-tremblay.php
+CHSLD Joseph-François-Perrault,Montréal,"7400, boul. Saint-Michel",Montréal,H2A 2Z8,514-722-3000,https://ciusss-estmtl.gouv.qc.ca/,https://www.indexsante.ca/chsld/montreal/71/chsld-joseph-francois-perrault.php
+CHSLD Juif de Montréal,Montréal,"5725, rue Victoria",Montréal,H3W 3H6,514-738-4500,https://www.chsldjuifdonaldberman.ca/,https://www.indexsante.ca/chsld/montreal/70/chsld-juif-de-montreal.php
+Centre régional de santé et de services sociaux de la Baie-James,Nord-du-Québec,"312, 3e Rue",Chibougamau,G8P 1N5,418-748-3575 poste 5188,http://www.crsssbaiejames.gouv.qc.ca/,https://www.indexsante.ca/detail/fiche-2264.html
+CHSLD Vigi de l'Outaouais,Outaouais,"565, boul. de l'Hôpital",Gatineau,J8V 3T4,819-568-7434,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/567/chsld-du-pontiac.php
+CHSLD de Mansfield-et-Pontefract,Outaouais,"230, chemin de la Chute, C. P. 610",Mansfield-et-Pontefract,J0X 1V0,819-683-2224,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/667/chsld-de-mansfield-et-pontefract.php
+CHSLD La Petite-Nation,Outaouais,"14, rue Saint-André",Saint-André-Avellin,J0V 1W0,819-983-7341,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/586/chsld-la-petite-nation.php
+CHSLD de Maniwaki,Outaouais,"177, rue des Oblats",Maniwaki,J9E 1G5,819-449-4900,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/666/chsld-de-maniwaki.php
+CHSLD des Collines,Outaouais,"9, chemin Passe-Partout, C. P. 59",Sainte-Cécile-de-Masham,J0X 2W0,819-459-1112,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/591/chsld-des-collines.php
+CHSLD Bon séjour,Outaouais,"134, rue Jean-René Monette",Gatineau,J8P 7C3,819-966-6450,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/534/chsld-bon-sejour.php
+CHSLD Vallée-de-la-Lièvre,Outaouais,"111, rue Gérard-Gauthier",Gatineau,J8L 3C9,819-986-1043,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/588/chsld-vallee-de-la-lievre.php
+CHSLD de Gracefield,Outaouais,"1, rue du Foyer, C. P. 317",Gracefield,J0X 1W0,,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/661/chsld-de-gracefield.php
+CHSLD Lionel-Émond,Outaouais,"125, boul. Lionel-Émond",Gatineau,J8Y 5S8,819-966-6410,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/120/chsld-lionel-emond.php
+CHSLD du Pontiac,Outaouais,"565, boul. de l'Hôpital",Gatineau,J8V 3T4,819-568-7434,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/532/chsld-du-pontiac.php
+CHSLD d'Aylmer,Outaouais,"445, boul. Wilfrid-Lavigne",Gatineau,J9H 6H9,819-966-6440,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/537/chsld-aylmer.php
+CHSLD Champlain Gatineau,Outaouais,"510, boul. de La Vérendrye Est",Gatineau,J8P 8B4,819-966-7331,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/524/chsld-champlain-gatineau.php
+CHSLD La Pietà,Outaouais,"273, rue Laurier",Gatineau,J8X 3W8,819-966-6420,https://cisss-outaouais.gouv.qc.ca/,https://www.indexsante.ca/chsld/outaouais/533/chsld-la-piete.php
+CHSLD de Mistassini,Saguenay - Lac-Saint-Jean,"201, boul. des Pères",Dolbeau-Mistassini,G8M 5K6,418-276-1234,,https://www.indexsante.ca/chsld/saguenay-lac-saint-jean/13/chsld-de-mistassini.php
+CHSLD Mgr-Victor-Tremblay,Saguenay - Lac-Saint-Jean,"1236, rue d'Angoulème",Chicoutimi,G7H 6P9,418-698-3907,,https://www.indexsante.ca/chsld/saguenay-lac-saint-jean/543/chsld-mgr-victor-tremblay.php
+CHSLD Métabetchouan-Lac-à-la-Croix,Saguenay - Lac-Saint-Jean,"1895, route 169",Métabetchouan-Lac-à-la-Croix,G8G 1B4,418-669-2000,,https://www.indexsante.ca/chsld/saguenay-lac-saint-jean/563/chsld-metabetchouan-lac-a-la-croix.php
+CHSLD Beaumanoir,Saguenay - Lac-Saint-Jean,"904, Jacques-Cartier Est",Chicoutimi,G7H 2A9,418-698-3900,,https://www.indexsante.ca/chsld/saguenay-lac-saint-jean/19/chsld-beaumanoir.php
+CHSLD Isidore-Gauthier,Saguenay - Lac-Saint-Jean,"5731, avenue du Pont Nord",Alma,G8E 1W8,418-669-2000,,https://www.indexsante.ca/chsld/saguenay-lac-saint-jean/550/chsld-isidore-gauthier.php
+CHSLD Le Normandie,Saguenay - Lac-Saint-Jean,"50, chemin Foyer-Nord",Bureau : CP 220,Alma (Québec),418-668-8313,,https://www.indexsante.ca/chsld/saguenay-lac-saint-jean/555/chsld-le-normandie.php
+CHSLD de la Colline,Saguenay - Lac-Saint-Jean,"150, rue Pinel",Chicoutimi,G7G 3N8,418-549-5474,,https://www.indexsante.ca/chsld/saguenay-lac-saint-jean/549/chsld-de-la-colline.php
